@@ -21,3 +21,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+/.vs/VSWorkspaceState.json
+/.vs/Egzamin/v16
+/.vs
